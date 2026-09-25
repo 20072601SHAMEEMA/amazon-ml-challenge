@@ -1,0 +1,5 @@
+dataset/**/*.tsv
+output/*.tsv
+*_submission.zip
+__pycache__/
+.venv/
